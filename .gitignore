@@ -1,0 +1,12 @@
+/vendor
+/composer.lock
+/.idea
+/node_modules
+/yarn.lock
+/extension/node_modules
+/extension/*.log
+/extension/package-lock.json
+/extension/.idea
+/extension/releases
+/extension/dist
+/extension/yarn.lock
